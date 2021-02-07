@@ -1,0 +1,25 @@
+.error{
+    width: 200px;
+    height: 200px;
+}
+.error-msg{
+    width: 200%;
+    text-align: center;
+}
+#singleFood ul {
+    list-style-image: url('images/download.png');
+    padding: 0px 20px;
+    font-size: 17px;
+  }
+
+#singleFood li{
+    margin-top: 4px;
+    margin-left: 0px;
+}
+
+#singleFood img{
+    height: 280px !important;
+}
+.cursor{
+    cursor: pointer;
+}
