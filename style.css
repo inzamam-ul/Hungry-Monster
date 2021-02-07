@@ -23,3 +23,10 @@
 .cursor{
     cursor: pointer;
 }
+.defaultText, .brand{
+    font-family: 'Potta One', cursive;
+    color:rgb(72, 153, 72) !important;
+}
+.navigation a{
+    color:rgb(72, 153, 72) !important;
+}
