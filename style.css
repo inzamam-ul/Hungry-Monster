@@ -30,3 +30,9 @@
 .navigation a{
     color:rgb(72, 153, 72) !important;
 }
+.close {
+    width: 10%;
+    top: 4px;
+    right: 4px;
+    position: absolute;
+}
